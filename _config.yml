@@ -1,8 +1,10 @@
-title: "Open Source Guides"
-description: "Learn how to launch and grow your project."
+title: "मुक्त स्रोत मार्गदर्शिकाएं"
+description: "
+अपने प्रोजेक्ट को 
+चालू करना और बढ़ाना सीखें|"
 
 # See: docs/translations.md
-locale: en-US
+locale: hi-IN
 translations:
   en-US:
     name: English (US)
